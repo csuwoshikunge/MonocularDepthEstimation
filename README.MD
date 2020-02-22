@@ -1,0 +1,1 @@
+This is an implementation of monocular depth estimation with a reference to tensorflow-deeplab-resnet(https://github.com/DrSleep/tensorflow-deeplab-resnet)
