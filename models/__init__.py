@@ -1,0 +1,1 @@
+from .ResNet50Model import ResNet50UpProj
